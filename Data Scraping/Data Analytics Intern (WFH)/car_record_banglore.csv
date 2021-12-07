@@ -1,0 +1,16 @@
+year,brand,model,price,buyer location,kilometer,type of car,body type,owner
+2014,Tata,Nano XT TWIST,1.6 Lakhs,Bangalore,9486 Kms,Petrol,Hatchback,1st Owner
+2014,Tata,Nano XT TWIST,1.75 Lakhs,Bangalore,55500 Kms,Petrol,Hatchback,2nd Owner
+2007,Maruti,Wagon R VXI MINOR,1.9 Lakhs,Bangalore,67400 Kms,Petrol,Hatchback,3rd Owner
+2007,Maruti,Wagon R LXI O,1.95 Lakhs,Bangalore,60600 Kms,Petrol,Hatchback,1st Owner
+2009,Maruti,Zen Estilo VXI,2.25 Lakhs,Bangalore,51425 Kms,Petrol,Hatchback,1st Owner
+2012,Mahindra,Quanto C6,3.25 Lakhs,Bangalore,63925 Kms,Diesel,SUV,1st Owner
+2016,Mahindra,Kuv100(2016_2017) K2...,4.25 Lakhs,Bangalore,48713 Kms,Petrol,SUV,1st Owner
+2008,Toyota,Innova 2.5 G1,5.3 Lakhs,Bangalore,2.37 Lakhs Kms,Diesel,SUV,1st Owner
+2007,Toyota,Innova 2.5 V 7STR,6.65 Lakhs,Bangalore,75900 Kms,Diesel,SUV,2nd Owner
+2014,Renault,Duster 110 PS RXZ,6.95 Lakhs,Bangalore,1.23 Lakhs Kms,Diesel,SUV,1st Owner
+2020,Renault,Triber RXZ,7.45 Lakhs,Bangalore,12299 Kms,Petrol,MPV,1st Owner
+2018,Tata,Tiago XZ,5.75 Lakhs,Bangalore,29105 Kms,Petrol,Hatchback,1st Owner
+2017,Maruti,Swift Dzire VXI,6.45 Lakhs,Bangalore,26724 Kms,Petrol,Sedan,1st Owner
+2012,Maruti,Swift VDI,5.45 Lakhs,Bangalore,69928 Kms,Diesel,Hatchback,1st Owner
+2017,Honda,Jazz 1.2 S I VTEC,6.35 Lakhs,Bangalore,27000 Kms,Petrol,Hatchback,1st Owner
